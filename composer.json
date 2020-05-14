@@ -4,13 +4,19 @@
     "type": "library",
     "require": {
         "php": "^7.4",
+        "ext-json": "*",
+        "ext-curl": "*",
+        "ext-xml": "*",
+        "ext-openssl": "*",
         "filp/whoops": "^2.7",
         "cboden/ratchet": "^0.4.2",
         "fzaninotto/faker": "^1.9",
         "mustache/mustache": "^2.13",
         "vlucas/phpdotenv": "^4.1",
         "nikic/fast-route": "^1.3",
-        "defuse/php-encryption": "^2.2"
+        "defuse/php-encryption": "^2.2",
+        "kevinlebrun/colors.php": "^1.0",
+        "knplabs/knp-snappy": "^1.2"
     },
     "require-dev": {
         "phpunit/phpunit": "^9.1"
