@@ -16,7 +16,8 @@
         "nikic/fast-route": "^1.3",
         "defuse/php-encryption": "^2.2",
         "kevinlebrun/colors.php": "^1.0",
-        "knplabs/knp-snappy": "^1.2"
+        "knplabs/knp-snappy": "^1.2",
+        "nunomaduro/collision": "^4.2"
     },
     "require-dev": {
         "phpunit/phpunit": "^9.1"
