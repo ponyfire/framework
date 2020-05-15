@@ -34,7 +34,7 @@
     ],
     "autoload": {
         "files": [
-            "src\\Functions.php"
+            "src\\PonyFire\\Functions.php"
         ],
         "psr-4": {
             "PonyFire\\": "src\\PonyFire\\"
